@@ -35,8 +35,8 @@ const char* mqtt_username = "domo";
 const char* mqtt_password = "zondag";
 
 WiFiClient espClient;
-const char* ssid = "__service__";
-const char* wifi_password = "2FB131cfea";
+const char* ssid = " your ssid here";
+const char* wifi_password = " your pw here";
 
 String clientId = "RCSWITCH-565";
 
